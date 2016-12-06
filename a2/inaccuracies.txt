@@ -1,0 +1,132 @@
+NN Inacurracies
+
+(Parameters are the same, 20, 40 for CNN)
+
+Uncertainty:
+42
+Top Class:
+4
+Top Probability:
+0.260181151168
+Image Index:
+942
+Uncertainty:
+9
+Top Class:
+4
+Top Probability:
+0.283843194348
+Image Index:
+2909
+Uncertainty:
+67
+Top Class:
+4
+Top Probability:
+0.258562010052
+Image Index:
+267
+CE: Train 0.33892 Validation 0.91024 Test 0.92813
+Acc: Train 0.87167 Validation 0.73270 Test 0.71948
+
+
+CNN
+
+Uncertainty:
+5
+Top Class:
+5
+Top Probability:
+0.284043350638
+Image Index:
+5
+Uncertainty:
+10
+Top Class:
+2
+Top Probability:
+0.284845336322
+Image Index:
+310
+Uncertainty:
+46
+Top Class:
+2
+Top Probability:
+0.2701439803
+Image Index:
+846
+Uncertainty:
+57
+Top Class:
+4
+Top Probability:
+0.249324261434
+Image Index:
+1357
+Uncertainty:
+37
+Top Class:
+2
+Top Probability:
+0.262069999775
+Image Index:
+1637
+Uncertainty:
+76
+Top Class:
+0
+Top Probability:
+0.2571808199
+Image Index:
+1776
+Uncertainty:
+2
+Top Class:
+4
+Top Probability:
+0.2458300783
+Image Index:
+1802
+Uncertainty:
+50
+Top Class:
+2
+Top Probability:
+0.261683463256
+Image Index:
+2650
+Uncertainty:
+68
+Top Class:
+4
+Top Probability:
+0.257873543674
+Image Index:
+3368
+Uncertainty:
+97
+Top Class:
+4
+Top Probability:
+0.281152572656
+Image Index:
+97
+Uncertainty:
+89
+Top Class:
+2
+Top Probability:
+0.284580406747
+Image Index:
+289
+Uncertainty:
+0
+Top Class:
+3
+Top Probability:
+0.236294514406
+Image Index:
+300
+CE: Train 0.30417 Validation 0.62007 Test 0.57882
+Acc: Train 0.90190 Validation 0.77566 Test 0.80260
